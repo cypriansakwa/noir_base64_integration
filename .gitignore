@@ -7,3 +7,6 @@ plonk_vk.sol
 base64_example/target/*
 js/node_modules
 .DS_Store
+base64_example/noir_base64_lib/README.md
+base64_example/noir_base64_lib/CHANGELOG.md
+base64_example/noir_base64_lib/release-please-config.json
